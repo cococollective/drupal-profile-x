@@ -4,6 +4,10 @@ description: "Drupal distribution. Includes a lot, but defaults to even less tha
 version: VERSION
 core: 8.x
 
+# Let's turn this into a distribution and be the default profile.
+distribution:
+  name: 'X'
+
 # Remove the line below if you actually want to install something.
 dependencies: {  }
 
