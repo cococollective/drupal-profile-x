@@ -1,0 +1,34 @@
+name: X
+type: profile
+description: "Drupal distribution. Includes a lot, but defaults to even less than 'Minimal' and starker than 'Stark'."
+version: VERSION
+core: 8.x
+
+# Remove the line below if you actually want to install something.
+dependencies: {  }
+
+# Uncomment the line(s) below if you actually want to install something by default.
+# dependencies:
+#   - dblog
+#   - syslog
+#   - update_manager
+#   - hellasimple_article
+#   - hellasimple_backend
+#   - hellasimple_blog
+#   - hellasimple_contact
+#   - hellasimple_core
+#   - hellasimple_crm
+#   - hellasimple_editor
+#   - hellasimple_forum
+#   - hellasimple_landingpage
+#   - hellasimple_mailchimp
+#   - hellasimple_page
+#   - hellasimple_social
+#   - hellasimple_survey
+#   - devel
+#   - features_ui
+#   - config_sync
+
+themes:
+  - xyz
+# - seven

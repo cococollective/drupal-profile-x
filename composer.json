@@ -1,0 +1,20 @@
+{
+    "name": "cococollective/drupal-profile-x",
+    "description": "Drupal distribution. Includes a lot, but defaults to even less than 'Minimal', and starker than 'Stark'.",
+    "type": "drupal-profile",
+    "keywords": ["Drupal"],
+    "require": {
+        "drupal/core": "8.*"
+    },
+    "license": "GPL-2.0+",
+    "authors": [{
+        "name": "Sierk Beij",
+        "email": "sierk@cococollective.org",
+        "role": "developer"
+    }],
+    "minimum-stability": "dev",
+    "extra": {
+       "branch-alias": {"dev-8.x-0.x": "8.0.x-dev"}
+    },
+    "non-feature-branches": ["archived-*", "abandoned-*"]
+}

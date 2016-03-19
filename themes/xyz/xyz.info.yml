@@ -1,0 +1,8 @@
+name: XYZ
+type: theme
+description: 'An intentionally even plainer theme than XYZ. Add your own theme instead.'
+package: Other
+version: VERSION
+core: 8.x
+base theme: false
+project: x
