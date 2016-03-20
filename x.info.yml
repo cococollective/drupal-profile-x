@@ -13,9 +13,13 @@ dependencies: {  }
 
 # Uncomment the line(s) below if you actually want to install something by default.
 # dependencies:
+#   - block
 #   - dblog
+#   - node
 #   - syslog
 #   - update_manager
+#   - taxonomy
+#   - views
 #   - hellasimple_article
 #   - hellasimple_backend
 #   - hellasimple_blog
@@ -29,9 +33,13 @@ dependencies: {  }
 #   - hellasimple_page
 #   - hellasimple_social
 #   - hellasimple_survey
+#   - big_pipe
+#   - config_devel
+#   - config_inspector
+#   - config_sync
 #   - devel
 #   - features_ui
-#   - config_sync
+#   - menu_link_config
 
 themes:
   - xyz

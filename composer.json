@@ -4,7 +4,26 @@
     "type": "drupal-profile",
     "keywords": ["Drupal"],
     "require": {
-        "drupal/core": "8.*"
+        "drupal/core": "8.*",
+        "cococollective/hellasimple_article": "8.*",
+        "cococollective/hellasimple_blog": "8.*",
+        "cococollective/hellasimple_contact": "8.*",
+        "cococollective/hellasimple_core": "8.*",
+        "cococollective/hellasimple_crm": "8.*",
+        "cococollective/hellasimple_editor": "8.*",
+        "cococollective/hellasimple_forum": "8.*",
+        "cococollective/hellasimple_landingpage": "8.*",
+        "cococollective/hellasimple_mailchimp": "8.*",
+        "cococollective/hellasimple_page": "8.*",
+        "cococollective/hellasimple_social": "8.*",
+        "cococollective/hellasimple_survey": "8.*",
+        "drupal/big_pipe": "8.1.*",
+        "drupal/config_devel": "8.1.*",
+        "drupal/config_inspector": "8.1.*",
+        "drupal/config_sync": "8.1.*",
+        "drupal/devel": "8.1.*",
+        "drupal/features": "8.3.*",
+        "drupal/menu_link_config": "8.1.*"
     },
     "license": "GPL-2.0+",
     "authors": [{
@@ -12,7 +31,6 @@
         "email": "sierk@cococollective.org",
         "role": "developer"
     }],
-    "minimum-stability": "dev",
     "extra": {
        "branch-alias": {"dev-8.x-0.x": "8.0.x-dev"}
     },
