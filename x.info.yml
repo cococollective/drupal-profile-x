@@ -1,7 +1,6 @@
 name: X
 type: profile
 description: "Drupal distribution. Includes a lot, but defaults to even less than 'Minimal' and starker than 'Stark'."
-version: VERSION
 core: 8.x
 
 # Let's turn this into a distribution and be the default profile.
