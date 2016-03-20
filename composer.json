@@ -23,7 +23,8 @@
         "drupal/config_sync": "8.1.*",
         "drupal/devel": "8.1.*",
         "drupal/features": "8.3.*",
-        "drupal/menu_link_config": "8.1.*"
+        "drupal/menu_link_config": "8.1.*",
+        "cococollective/drupsteen": "8.*"
     },
     "license": "GPL-2.0+",
     "authors": [{
