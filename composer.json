@@ -1,5 +1,5 @@
 {
-    "name": "cococollective/drupal-profile-x",
+    "name": "cococollective/x",
     "description": "Drupal distribution. Includes a lot, but defaults to even less than 'Minimal', and starker than 'Stark'.",
     "type": "drupal-profile",
     "keywords": ["Drupal"],
